@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Web-page académique - P.R.M.</title>
+    <link
+	  rel="stylesheet"
+	  href="style2.css"
+    >
+    <script type="text/javascript">
+function toggleTheme() {
+            var theme = document.getElementsByTagName('link')[0];
+            if (theme.getAttribute('href') == 'style2.css') {
+                theme.setAttribute('href', 'style.css');
+            } else {
+                theme.setAttribute('href', 'style2.css');
+            }
+        }
+</script>
+  
+  </head>
+  
+  <body>  
+  <main>
+    <div class="tabset">
+      <input
+        type="radio"
+        name="tabset_1"
+        id="tabset_1_about"
+        hidden
+        aria-hidden="true"
+        checked
+      >
+      <input
+        type="radio"
+        name="tabset_1"
+        id="tabset_1_publications"
+        hidden
+        aria-hidden="true"
+      >
+      <input
+        type="radio"
+        name="tabset_1"
+        id="tabset_1_teaching"
+        hidden
+        aria-hidden="true"
+      >
+      <input
+        type="radio"
+        name="tabset_1"
+        id="tabset_1_cv"
+        hidden
+        aria-hidden="true"
+      >
+      <input
+        type="radio"
+        name="tabset_1"
+        id="tabset_1_interests"
+        hidden
+        aria-hidden="true"
+      >	    
+    <ul hidden aria-hidden="true">
+      <li><label for="tabset_1_about">À propos</label></li>
+      <li><label for="tabset_1_publications">Publications</label></li>
+      <li><label for="tabset_1_teaching">Enseignement</label></li>
+      <li><label for="tabset_1_cv">CV</label></li>
+      <li><label for="tabset_1_interests">Intérêts</label></li>
+    </ul>
+    
+    <div>
+      <section>
+        <h2>À propos</h2>
+        	
+        <div id="profile" class="center"></div>
+        	<p>
+				<a href="index.html">(english version)</a></br></br>
+        		
+        		Web-page académique de <b>Pierre R. Mercuriali</b>,</br>
+        		Chercheur post-doctoral à <a href="https://www.tudelft.nl/staff/p.r.mercuriali/">TUDelft</a>, Delft, 
+				Pays-Bas.</br></br>
+				Je travaille actuellement sur la représentation des connaissances et sur le raisonnement 
+				automatique à partir d'ontologies 
+				dans le contexte du comportement lié à l'utilisation d'outils, avec 
+	  		<a href="https://www.tudelft.nl/staff/g.langejans/">Geeske Langejans</a> 
+	  		et   
+	  		<a href="https://www.tudelft.nl/staff/c.h.corbato/">Carlos Hernandez Corbato</a>.
+        		
+        		<h3>Liens</h3>
+        		<ul>
+        			<li><a href="https://www.researchgate.net/profile/Pierre-Mercuriali">ResearchGate</a></li>
+        			<li><a href="https://scholar.google.com/citations?hl=en&user=OxADq64AAAAJ">Google Scholar</a></li>
+        			<li><a href="https://research.tudelft.nl/en/persons/pr-mercuriali">Profil "Pure" à TUDelft</a></li>
+				<li><a href="https://github.com/PierreMercuriali">GitHub</a></li>
+				<li><a href="https://twitter.com/video_obtention">Twitter</a></li>
+        				
+        		</ul>
+      			
+      			<h3>Contact <img src="e-mail.gif"> </h3>
+      			<ul>
+      				<li><img src="emailpers.png" alt="pers email as txt"></li>
+      				<li><img src="emaildelft.png" alt="work email as txt"></li>
+      			</ul>
+      		
+			Merci à <a href="https://gifcities.org/">Gifcities</a> pour le contenu très utile.
+      		
+      		</p>
+      		
+      		
+      		
+      		
+      </section>
+      <section>
+        <h2>Publications</h2>
+      		<p>
+      			Pour une liste plus complète, allez voir mon profil 
+			<a href="https://hal.archives-ouvertes.fr/search/index/q/*/authFullName_s/Pierre+Mercuriali">HAL</a>, 
+			<a href="https://scholar.google.com/citations?hl=en&user=OxADq64AAAAJ">Google Scholar</a> 
+			ou <a href="https://www.researchgate.net/profile/Pierre-Mercuriali">ResearchGate</a> ! 
+      			<ul> 
+      				<li>Pierre Mercuriali. <b>"Sur les systèmes de formes normales pour représenter efficacement des fonctions multivaluées."</b> Informatique . Université de Lorraine, 2020. Français. ⟨NNT : 2020LORR0241⟩. ⟨tel-03202757⟩</br>
+      				Ma thèse, défendue en décembre 2020 !</br>
+      				<a href= "thesis.pdf">PDF ICI</a>
+      				</li>
+      				<li>
+      				Couceiro, Miguel, Erkko Lehtonen, Pierre Mercuriali, and Romain Péchoux. <b>"On the efficiency of normal form systems for representing Boolean functions."</b> <i>Theoretical Computer Science</i> 813 (2020): 341-361.</br>
+      				<a href= "on_the_efficiency_of_normal_form_systems.pdf">PDF ICI</a>
+      				</li>
+      				
+      				<li>
+      				Miguel Couceiro, Pierre Mercuriali, Romain Péchoux, Abdallah Saffidine. <b>On the complexity of minimizing median normal forms of monotone Boolean functions and lattice polynomials.</b> <i>Journal of Multiple-Valued Logic and Soft Computing</i>, Old City Publishing, In press, 33 (3), pp.197-218. ⟨hal-01905491⟩</br>
+      				<a href= "median_computations_MVLSC-CMPS.pdf">PDF ICI</a>
+      				</li>
+      				
+      				<li>
+      				M. Couceiro, P. Mercuriali, R. Péchoux and A. Saffidine, <b>"Median Based Calculus for Lattice Polynomials and Monotone Boolean Functions,"</b> 2017 <i>IEEE 47th International Symposium on Multiple-Valued Logic (ISMVL)</i>, 2017, pp. 37-42, doi: 10.1109/ISMVL.2017.18.</br>
+      				<a href= "medianBasedCalculus.pdf">PDF ICI</a>
+      				</li>
+      			</ul>
+      			
+      			<img src="underconstruction.gif" alt="under construction">
+      		</p>
+      </section>
+      <section>
+        <h2>Enseignement</h2>
+      		<p>
+      			<ul>
+				<li>2022: <b>Méthodes symboliques pour l'intelligence artificielle</b> (dans le cadre du FAIP - Fundamentals of AI Programme), TUDelft, Delft, Pays-Bas<br>
+      					<ul>
+						<li><a href= "Symbolic_AI.pdf">Document de cours ICI ! (en anglais)</a></li>
+						<li>(Version française en préparation)</li>
+      						<li>Symboles, syntaxe, sémantique</li>
+      						<li>Une introduction douce et calme sur la logique propositionnelle.</li>
+      					</ul>
+      				</li>
+      				<li>2020 - 2023: <b>Logique formelle</b> (dans le cadre du cours RO47014: Knowledge Representation and Symbolic Reasoning), TUDelft, Delft, Pays-Bas<br>
+      					<ul>
+      						<li>Logique propositionnelle </li>
+      						<li>Logique du premier ordre</li>
+      						<li>Logiques de description</li>
+							<li>Moteurs d'inférence simples</li>
+      					</ul>
+      				</li>
+    				<li>2016 - 2018: <b>C2i</b> (cours préparatoire pour le C2i), Université de Lorraine, Nancy, France</li>
+    				<li>2017 - 2018: <b>Algorithmique et programmation</b>, Université de Lorraine, Nancy, France</li>
+      			</ul>
+      		</p>
+      </section>
+      <section>
+        <h2>CV</h2>
+        	<p>
+		<a href="CV_2022_Fran_ais_version_longue__.pdf"><img src="new.gif" alt="new"> Dernière version (2022) en français !</a>	
+        	<a href="CV2021.pdf">Version anglaise !</a>
+      			<h3>Éducation</h3>
+      				<ul>
+      					<li>2020: Thèse en <b>informatique théorique</b>, Directeurs : 
+						<a href="https://members.loria.fr/mcouceiro/">Miguel Couceiro</a> and <a href="https://members.loria.fr/RPechoux/">Romain Péchoux</a>, 
+						LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications), Nancy. Titre: 
+						Sur les systèmes de formes normales pour représenter efficacement des fonctions 
+						multivaluées sur des ensembles finis. Défendue en décembre 2020.</li>
+      					<li>2016: Master en <b>sciences cognitives, traitement automatique des langues</b>, UFR-MI, Université de Lorraine, Nancy, France. 
+						<a href="https://idmc.univ-lorraine.fr/idmc-master-sciences-cognitives/">Lien vers le site du master</a></li>
+      					<li>2014: DEUG d'<b>anglais</b>, LLCER, Université de Lorraine, Nancy, France</li>
+      					<li>2012: Licence de <b>mathématiques fondamentales</b>, UFRSTMIA, Nancy, France</li>
+      					<li>2009: Baccalauréat S-SVT (<b>sciences de la vie et de la terre</b>), Lycée Raymond Poincaré, Bar-le-Duc, France</li>
+      				</ul> 
+      			<h3>Expérience</h3>
+      				<ul>
+      					<li>2020 - 2022: chercheur post-doctoral à l'université technique de Delft, départements de robotique cognitive et d'ingéniérie des matériaux.</li>
+      				</ul>
+      			<h3>Enseignement</h3>
+      				Voir l'onglet <b>Enseignement</b> !
+      			<h3>Compétences</h3>
+      				<ul>
+      					<li>Informatique : LibreOffice, LaTeX, Linux</li>
+      					<li>Programmation : Python (NLTK, PIL), C, Web (HTML+CSS)</li>
+      					<li>Peinture digitale : Krita</li>
+      				</ul>
+      			<h3>Langues</h3>
+      				<ul>
+      					<li>Français (maternel)</li>
+      					<li>Anglais (courant + utilisation professionnelle)</li>
+      					<li>Italien (utilisation régulière)</li>
+      					<li>Grec ancien, néerlandais, latin, polonais (bases)</li>
+      				</ul>
+      				<img src="france.gif">
+      			<img src="uk.gif">
+      			<img src="italy.gif">
+      			<img src="greece.gif">
+      			<img src="nederlands.gif">
+      			<img src="poland.gif">
+      			
+      		</p>
+      </section>
+      <section>
+        <h2>Intérêts</h2>
+        	<p>
+        		<h3>Intérêts académiques</h3>
+      			<ul>
+				<li>TAL et linguistique computationnelle</li>
+				<li>Sciences cognitives et éducation</li>
+				<li>Complexité calculatoire et représentations</li>
+				<li>Philosophie et logique</li>
+				<li>Mathématiques et mathématiques visuelles</li>
+				
+			</ul>
+	      		<h3>Intérêts divers</h3>
+      			<ul>
+				<li>Langues et littérature</li>
+				<li>Musique</li>
+				<li>Dessin</li>
+				<li>Cuisine italienne, française, et jardinage</li>
+	      		</ul>
+	      			
+      		</p>
+      </section>
+      
+    </div>
+    
+    <p>
+	<button onclick="toggleTheme()">Change style</button>
+	</p>    
+    
+    </div>
+  </main>
+  <footer>
+  
+  </footer>
+    
+  </body>
+  
+  
+  
+</html>
