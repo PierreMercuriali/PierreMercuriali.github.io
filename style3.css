@@ -1,0 +1,46 @@
+html,  body {
+	
+}
+
+body,  button,  input,  table,  textarea,  select {
+	font:normal 1em/1.5 arial, helvetica, sans-serif;
+	font-family: 'Courier', 'Chalkboard SE', 'Comic Neue', sans-serif;
+	color:rgb(0,0,0);
+}
+body {
+	background:rgb(0, 173, 172);
+}
+main {
+	width:auto;
+	margin:0 auto;
+	padding:1.5em;
+}
+table, tr, th {
+	border: 2px outset black;
+	padding:0.5em;
+}
+td {
+	border: 2px inset black;
+	padding:0.5em;
+}
+h1 {
+	font-size:2em;
+}
+h3 {
+  border: 2px dotted black;
+  margin: 1 auto;
+}
+p {
+	padding-bottom:1.5em;
+}
+a {
+	background:rgb(218,218,218);
+}
+b, strong {
+	color: black;
+}
+section {
+	background:rgb(196,200,204);
+}
+
+
