@@ -41,6 +41,8 @@ b, strong {
 }
 section {
 	background:rgb(196,200,204);
+	border: 2px outset black;
+	padding:0.5em;
 }
 
 
