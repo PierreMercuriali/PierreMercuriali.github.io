@@ -3,8 +3,7 @@ html,  body {
 }
 
 body,  button,  input,  table,  textarea,  select {
-	font:normal 1em/1.5 arial, helvetica, sans-serif;
-	font-family: 'Courier', 'Chalkboard SE', 'Comic Neue', sans-serif;
+	font:normal 1.3em/1.5 Calibri, arial, helvetica, sans-serif;
 	color:rgb(0,0,0);
 }
 body {
