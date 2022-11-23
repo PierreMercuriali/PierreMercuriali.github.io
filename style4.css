@@ -4,7 +4,7 @@
 html,  body {
 	font:normal 1em/1.5 Calibri, arial, helvetica, sans-serif;
 	color:rgb(0,0,0);
-	background:rgb(235, 235, 235);
+	background:rgb(245, 245, 245);
 }
 
 main {
@@ -22,6 +22,9 @@ main {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
+  position: relative;
+  padding: 10px 40px;
+  background-color: white;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -67,6 +70,8 @@ main {
 .right {
   left: 50%;
 }
+
+
 
 /* Add arrows to the left container (pointing right) */
 .left::before {
@@ -140,4 +145,14 @@ main {
   .right {
     left: 0%;
   }
+}
+
+.enseignement {
+	background-color: rgb(235, 255, 255);
+}
+.article {
+	background-color: rgb(255, 235, 255);
+}
+.document {
+	background-color: rgb(255, 235, 235);
 }
