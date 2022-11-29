@@ -7,6 +7,13 @@ html,  body {
 	background:rgb(245, 245, 245);
 }
 
+#profile {
+   	background-image: url('pierre.jpg');
+}
+#profile:hover {
+   	background-image: url('profile.jpg');
+}
+
 main {
 	width:auto;
 	margin:0 auto;
