@@ -1,163 +1,79 @@
-html,  body {
-	height:100%;
+* {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
 }
 
-body,  button,  input,  table,  textarea,  select {
-	font:normal 1em/1.5 arial, helvetica, sans-serif;
-	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
-	color:rgb(200,200,200);
-}
-body {
-	display:flex;
-	flex-direction:column;
-	background:rgb(0, 0, 50);
-	background-image: url("starrybg.gif");
-	background-repeat: repeat;
-}
-main {
-	flex:1 0 auto;
-	width:48em;
-	margin:0 auto;
-	padding:1.5em;
+h1, h3{
+  text-transform: uppercase;
+  font-weight: normal;
 }
 
-h1 {
-	font-size:2em;
+/* unvisited link */
+a:link {
+  color: rgb(240,140,120);
 }
-h3 {
-  border: 1px solid black;
-  color: rgb(255,100,255);
-  animation: mymove 5s infinite;
+a:visited {
+  color: rgb(130,130,130);
 }
-
-@keyframes mymove {
- 15% {color: rgb(0,250,255);}
-}
-@keyframes mymove2 {
- 50% {color: hsl(220, 100%, 60%);}
-}
-
-p {
-	padding-bottom:1.5em;
-}
-
-a {
-	background:rgb(230,250,0);
-}
-b, strong {
-	color: white;
-   	background-image: url("movebg.gif");
-	background-repeat: repeat;
-}
-
-section {
-	background-image: url("starrybg3.gif");
-	background-repeat: repeat;
-}
-#profile {
-   	background-image: url('profile.jpg');
-   	height: 239px;
-   	width: 231px;
-}
-#profile:hover {
-   	background-image: url('closeup.jpg');
-	height: 239px;
-  	width: 231px;
-  	background-repeat: no-repeat;
-}
-
-ul {
-  list-style-image: url('starbullet.gif');
+a:hover {
+  color: rgb(200,200,200);
 }
 
 
-.tabset > input {
-  display:block; /* "enable" hidden elements in IE/edge */
-  position:absolute; /* then hide them off-screen */
-  left:-100%;
-}
-.tabset > ul {
-  position:relative;
-  z-index:999;
-  list-style:none;
-  display:flex;
-  margin-bottom:-1px;
-}
-.tabset > ul label,
-.tabset > div {
-  border:1px solid hsl(220, 100%, 60%);
-}
-.tabset > ul label {
-  display:inline-block;
-  padding:0.25em 1em;
-  background:rgb(0, 0, 40);
-  border-right-width:0;
-}
-/*rounding... table...*/
-.tabset > ul li:first-child label {
-  border-radius:0.5em 0 0 0;
-}
-.tabset > ul li:last-child label {
-  border-right-width:1px;
-  border-radius:0 0.5em 0 0;
-}*/
 
-.tabset > div {
-  position:relative;
-  background:hsl(220, 100%, 98%);
-  border-radius:0 0.5em 0.5em 0.5em;
+.tabs{
+    width: 800px;
+    display: block;
+    margin: 40px auto;
+    position: relative;
 }
-.tabset > input:nth-child(1):focus ~ ul li:nth-child(1) label,
-.tabset > input:nth-child(2):focus ~ ul li:nth-child(2) label,
-.tabset > input:nth-child(3):focus ~ ul li:nth-child(3) label,
-.tabset > input:nth-child(4):focus ~ ul li:nth-child(4) label,
-.tabset > input:nth-child(5):focus ~ ul li:nth-child(5) label,
-.tabset > input:nth-child(6):focus ~ ul li:nth-child(6) label,
-.tabset > input:nth-child(7):focus ~ ul li:nth-child(7) label,
-.tabset > input:nth-child(8):focus ~ ul li:nth-child(8) label,
-.tabset > input:nth-child(9):focus ~ ul li:nth-child(9) label {
-  text-decoration:underline;
-  animation: mymove2 1s infinite;
+
+.tabs .tab{
+    float: left;
+    display: block;
 }
-.tabset > input:nth-child(1):checked ~ ul li:nth-child(1) label,
-.tabset > input:nth-child(2):checked ~ ul li:nth-child(2) label,
-.tabset > input:nth-child(3):checked ~ ul li:nth-child(3) label,
-.tabset > input:nth-child(4):checked ~ ul li:nth-child(4) label,
-.tabset > input:nth-child(5):checked ~ ul li:nth-child(5) label,
-.tabset > input:nth-child(6):checked ~ ul li:nth-child(6) label,
-.tabset > input:nth-child(7):checked ~ ul li:nth-child(7) label,
-.tabset > input:nth-child(8):checked ~ ul li:nth-child(8) label,
-.tabset > input:nth-child(9):checked ~ ul li:nth-child(9) label {
-  background:rgb(0, 0, 0);
-  border-bottom-color:hsl(220, 100%, 98%);
+
+.tabs .tab>input[type="radio"] {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
 }
-/*hiding and showing the content section*/
-.tabset > div > section,
-.tabset > div > section h2 {
-  position:absolute;
-  top:-999em;
-  left:-999em;
+
+.tabs .tab>label {
+    display: block;
+    padding: 6px 21px;
+    font-size: 12px;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: relative;
+    color: #FFF;
+    background: rgb(121,71,68);
 }
-.tabset > div > section {
-  padding:1em 1em 0;
+
+.tabs .content {
+    z-index: 0;/* or display: none; */
+    overflow: hidden;
+    width: 800px;
+    padding: 25px;
+    position: absolute;
+    top: 27px;
+    left: 0;
+    background: rgb(25,20,28);
+    color: #DFDFDF;
+    opacity:0;
+    transition: opacity 400ms ease-out;
 }
-.tabset > input:nth-child(1):checked ~ div > section:nth-child(1),
-.tabset > input:nth-child(2):checked ~ div > section:nth-child(2),
-.tabset > input:nth-child(3):checked ~ div > section:nth-child(3),
-.tabset > input:nth-child(4):checked ~ div > section:nth-child(4),
-.tabset > input:nth-child(5):checked ~ div > section:nth-child(5),
-.tabset > input:nth-child(6):checked ~ div > section:nth-child(6),
-.tabset > input:nth-child(7):checked ~ div > section:nth-child(7),
-.tabset > input:nth-child(8):checked ~ div > section:nth-child(8),
-.tabset > input:nth-child(9):checked ~ div > section:nth-child(9) {
-  position:Static;
+
+.tabs>.tab>[id^="tab"]:checked + label {
+    top: 0;
+    background: rgb(25,20,28);
+    color: #F5F5F5;
 }
-/*remove...*/
-.tabset > ul label {
-  -webkit-touch-callout:none;
-  -webkit-user-select:none;
-  -khtml-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  user-select:none;
+
+.tabs>.tab>[id^="tab"]:checked ~ [id^="tab-content"] {
+    z-index: 1;/* or display: block; */
+   
+    opacity: 1;
+    transition: opacity 100ms ease-out;
 }
