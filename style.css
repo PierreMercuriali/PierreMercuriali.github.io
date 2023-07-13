@@ -2,7 +2,13 @@
     margin: 0;
     padding: 0;
     text-align: justify;
-}
+    
+  }
+
+body {
+background-image: url(space.gif);
+    background-repeat: repeat;
+    }
 
 h1, h3{
   text-transform: uppercase;
