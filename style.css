@@ -11,9 +11,6 @@ BODY {
   padding: 10px;
   margin: auto;
 }
-a {
-  background-color:LightGoldenrodYellow; 
-}
 figure{
   border: 0px solid black;
   text-align:center;
@@ -34,11 +31,13 @@ img{
 table{
   width:60%;
   text-align: center;
-  padding: 10px;
+  padding: 0px;
   margin: auto;
 }
 td{
   border:0px solid black;
+  padding-left:3px;
+  padding-right:3px;
 }
 .logtitle{
   background-color:Gainsboro;
