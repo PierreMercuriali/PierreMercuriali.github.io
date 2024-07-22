@@ -12,8 +12,10 @@ BODY {
   margin: auto;
 }
 figure{
-  border: 0px solid black;
+  border: 1px solid black;
   text-align:center;
+  background:rgb(222,222,222);
+  padding:5px;
 }
 figcaption{
   font-size:14px;
@@ -22,7 +24,7 @@ figcaption{
 img{
   padding:0px;
   border:0px solid black;
-  width:85%;
+  width:45%;
 }
 .clear{
   width:auto;
