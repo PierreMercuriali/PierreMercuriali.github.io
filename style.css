@@ -1,7 +1,7 @@
 BODY {
   display: block;
   margin: auto;
-  font-size:16px;
+  font-size:14px;
   font-family:"Century Gothic",Verdana,sans-serif,courier; 
 }
 .content{
@@ -10,6 +10,7 @@ BODY {
   text-align: justify;
   padding: 10px;
   margin: auto;
+  background:white;
 }
 figure{
   border: 1px solid black;
@@ -31,8 +32,7 @@ img{
 }
 
 table{
-  width:60%;
-  text-align: center;
+  width:100%;
   padding: 0px;
   margin: auto;
 }
