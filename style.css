@@ -1,0 +1,51 @@
+BODY {
+  display: block;
+  margin: auto;
+  font-size:14px;
+  font-family:"Century Gothic",Verdana,sans-serif,courier; 
+}
+.content{
+  border: 4px ridge black;
+  width: 80%;
+  text-align: justify;
+  padding: 10px;
+  margin: auto;
+  background:white;
+}
+figure{
+  border: 1px solid black;
+  text-align:center;
+  background:rgb(222,222,222);
+  padding:5px;
+}
+figcaption{
+  font-size:14px;
+  font-style:italic;
+}
+img{
+  padding:0px;
+  border:0px solid black;
+  width:45%;
+}
+.clear{
+  width:auto;
+}
+
+table{
+  width:100%;
+  padding: 0px;
+  margin: auto;
+}
+td{
+  border:0px solid black;
+  padding-left:3px;
+  padding-right:3px;
+}
+.logtitle{
+  background-color:Gainsboro;
+}
+.logentry{
+  border: 1px dotted black;
+  padding: 3px;
+}
+
