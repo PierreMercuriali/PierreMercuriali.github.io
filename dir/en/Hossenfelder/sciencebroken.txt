@@ -1,0 +1,83 @@
+Why Science is broken
+Sabine Hossenfelder
+https://www.youtube.com/watch?v=9yPy3DeMUyI
+August 15, 2025
+
+I’ve had a lot of conversations recently about what’s going wrong with scientific research. And that’s good. It’s good we’re talking about it though I’m a little surprised it turned out to be so controversial. But this made me realize that I have confused myself and potentially everybody else by mixing together a bunch of different things. 
+The most visible problems in scientific research are in some sense the least important ones, I mean misconduct and fraud. These cases make a lot of headlines, but they are rare. Like we had this honesty researcher at Harvard who was accused of having faked survey responses. We have Ranga Diaz who was accused of having faked superconductor measurement. And several other prominent examples. And yes this is terrible, but you will find some rotten eggs in any profession. There are circumstances that may make this more likely, and I wonder whether science has such circumstances. But ultimately, I think there’s no way to avoid it. 
+The second problem with scientific research is far less visible, it’s organized scams. These are becoming an increasing problem. These scams include so called “paper mills”, that are networks of people who sell off paper authorships or citations for money, but also just networks of pseudo-scientists who crank out fake papers with fake data and fake images. The methods these people use are becoming more and more sophisticated and include things like planting fake papers online to generate profiles of imaginary researchers, letting AI write their papers and generating images, to try and attract citations by quoting themselves on Wikipedia. This used to be a thing which happened predominantly in some eastern countries, notably China and India, but it’s been spreading West in the past years with cases showing up in Europe and the Americas. We will likely see more of this with AI becoming better. And this is a growing problem but it’s not the major problem I worry about, at least not yet. 
+It is however indicative of the much bigger problem. Because you can ask, and I think you should ask, why do people do this? Why do people buy authorships and citations to pretend being scientists? What’s the point? The answer is quite simple: Because it's a good investment. They spend money on fake papers with fake citations then they can make more money by using this fake research to get grants or find a well-paid job. The much bigger problem that I am worried about is then that even if the research isn’t outright fake, the incentives still exist, and they’re still pushing researchers into the wrong direction. That is, economic pressure encourages researchers to publish papers that get cited. And so they develop strategies to make that as simple as possible, which is not by doing good science. The easiest way to publish papers that get cited is to create useless garbage that the public doesn’t understand or doesn’t care about, and that their colleagues approve of, but that ultimately benefits no one besides scientists themselves. This works particularly well if no one besides the people in the field feels competent to judge what they’re even doing. 
+When I say they “develop strategies” I don’t mean they do this deliberately. It’s not like they sit down and decide to do useless research for the rest of their life just to continue getting paid. It’s that the way that the system is organized, this is the winning strategy. The winning strategy in science is to be useless. Isn’t he winning strategy to, you know, make a revolutionary breakthrough? Yes, but. To do that, you have to do research in the first place. And where do you get the funding for that? And so, scientists come to think of useless paper production as a necessary evil on the way to a breakthrough that never happens because in the end all they do is produce those useless papers. Which of course they would never admit.
+Scientist will defend their useless research as allegedly “normal”. And to be fair, this has been going on for so long that in some sense it has indeed become normal. This is why the return on investment in science has gone down. They think it’s fine that way, they don’t want to change it, they want you to believe it’s fine, and most people believe it. With all this complacency it’d be surprising if progress had NOT slowed down. In my interactions with scientists I have gotten the impression that almost everyone is aware of this problem. It’s possible of course that my own experience is biased for one reason or another. Biased towards wine drinking cheese eaters and away from beer drinking pizza people. But that doesn’t make my experience go away. Scientists constantly have pressure to produce more papers, to publish them in high impact journals, to get their papers cited. And they know what is the sort of paper that will get published and cited and that’s what they work on. I have seen tenured professors advising younger researchers to work in areas where many other people work because that’s the only way to get cited. That’s what causes scientific bubbles. I have seen department heads reprimanding staff for not publishing enough multiple times. I have been criticized for not publishing enough myself. I know that researchers are now being pressured to publish more at earlier and earlier stages in their career, because everyone else is doing it. This is a race to the bottom and it’s happening as we speak. I have heard faculty members admitting that the “relevance” section of their grant proposals is made up nonsense, more than once. They justify it to themselves and others by arguing that one can never predict what will be useful anyway, same old argument. I have myself received offers to work on theories that were throwing together two or more already speculative ideas, because that would be a fast paper and get published, not because it made any sense. Sometimes I’ve done it. I have talked to many researchers who know that the topic they work on has no scientific relevance but who tell themselves, and their colleagues, that they do it because it pays the bills, and on the side they have a project that really matters to them. And I have heard senior researchers advising younger ones to do exactly that. To swim with the mainstream to finance something else. That isn’t per se bad advice, it’s just that these “side projects” basically never go anywhere, just by lack of time. And I know many researchers who made up research topics just because there was funding in a particular area. 
+This is why I say it’s a planned economy. Most of them would never admit any of this in public. You sometimes hear Nobel Prize winners speak out about it. Because once you have a Nobel Prize you’re basically untouchable and no one will question you. If a German YouTuber talks about these problem, then that’s highly controversial. In the literature it’s been called the “natural selection of bad science”. Basically the problem is that bad science is easier than real science. So if no one checks the use of the research, the bad science will take over. And that’s what we’re seeing. I want to stress this again: I think that most of the people who work in academia don’t see anything wrong with what they are doing. Because they’ve been taught that whatever they’re doing is standard procedure, everyone does it, and they can’t change anyway. It’s just “the system”. 
+Most of them also buy into the idea that it doesn’t really matter what they work on because you never know if not maybe one day it will turn out to be useful. The problem presents itself differently in different fields and naturally I know most about the foundations of physics. Here the problem has taken the form of what I call mathematical fiction, Jim Baggott has called Fairytale Physics, and what Avi Loeb has called mathematical gymnastics. It’s why Ellis and Silk have argued that one should designate an area of “mathematical cosmology” to “Defend the Integrity of Physics”. That was 10 years ago. You know what has happened since is that we now have more mathematical cosmology than ever before. In other research areas the problem presents itself differently. For example, in psychology and some parts of sociology they had a big problem with using flawed measures of statistical significance. This has literally been going on for decades despite the fact that the problem was widely known. There’s an interesting statement from 2016 from Jessica Utts then the president of the American Statistical association who wrote “Statisticians and other scientists have been writing on the topic for decades.” You must ask then, if the problem was so widely known for so long, why didn’t psychologists and sociologists do anything about it? Because that’d have been effort and that would have made it more difficult for them to publish papers. So of course they didn’t do it until they really really had to because it attracted so much public attention. Now in psychology an interesting thing happened which is that psychologists went and tried to understand what caused the problem. And they correctly identified the cause of the problem in a lack of self-correction in the community. This self-correction didn’t happen because they all thought it was okay, they were just doing what they had learned. And psychologists have since tried to clean up the mess by trying to enforce certain standards. 
+Physicists lack this ability for self-reflection. There are similar problems in many other areas of science, like in biomedicine there are some wild stories about how they’ve been using mislabelled cell lines for decades or antibodies that aren’t what they’re supposed to be. Or the widely known shortcomings of “mouse models”, that is, tests on mice are known to rarely carry over to humans, so why do they keep using them? Because mice are cheap, easy to use, and everyone else is doing it. 
+I learn all this from Richard Harris’ book rigor mortis. Why do these things keep happening? He quotes social scientist Brian Martinson “Most people who work in science are working as hard as they can. They are working as long as they can in terms of the hours they are putting in. They are often going beyond their own physical limits. And they are working as smart as they 
+can. And so if you are doing all those things, what else can you do to get an edge, to 
+get ahead, to be the person who crosses the finish line first? All you can do is cut 
+corners. That’s the only option left to you.” I think this broken incentive structure 
+in academia is why scientific progress has slowed down so much, as I discussed in an 
+earlier video. It’s not that it’s stopped, but we have seen a declining return on 
+investment. The reason for this, I think, is that we are paying a lot of researchers who no 
+longer care about being useful to the society that pays them. They think it’s okay to be useless 
+and they will even defend their uselessness. Let me be clear that when 
+I ask for useful research, I do not necessarily mean technological 
+applications. Knowledge per se also has use. That the current organization of scientific 
+research is extremely inefficient has also been studied by economists. 
+
+The best book 
+I know about this comes from Paula Stephan. She points towards a variety of problems, 
+like that the current system exploits PhD students and postdoc as cheap and 
+expendable labour to produce more papers and bring in money for universities. 
+But the key problem she points out is that the system strongly discourages risk taking, 
+and this is why there is so little progress. She writes “The system that has evolved 
+discourages faculty from pursuing research with uncertain outcomes. Lack of success can 
+mean that one’s next grant will not be funded. Proposals that do not look like a sure bet 
+may be hard to get funded in the first place. To quote the Nobel laureate Roger Kornberg “If 
+the work that you propose to do isn’t virtually certain of success, then it won’t be funded.” Risk 
+avoidance is particularly acute for faculty on soft money. As Stephen Quake, a Stanford Professor 
+of bioengineering, says “The rubric for today’s faculty has gone from ‘publish or perish’ to 
+‘funding or famine.’”” The book is from 2012. That the incentive structure in academia is 
+fundamentally broken isn’t a new insight of course, people have discussed this already when 
+I was a student. That was 30 years ago. This tells you how hard the problem is to solve. 
+
+Despite the enormous relevance of the topic, it’s admittedly somewhat of 
+a niche interest of mine. I think that most scientists are not aware the 
+problem has been studied and documented so much. The reason you don’t hear much 
+about it is that the scientists you are most likely to hear of are top 
+researchers at top institutions who do not feel most of the pressure 
+in academia. Those are the 0.1%, the crème de la crème of science. Whereas 
+what I am talking about is the other 99.9%. And this is why I don’t trust scientists. 
+I know that this upsets some people. It’s something I shouldn’t be saying. Because 
+you know it could damage trust in science. But if I said otherwise I’d be lying to you. The 
+truth is I don’t trust scientists. Because I know how the system skews their interests. And I think 
+that you need to know how scientific research works so you can properly evaluate scientific 
+claims. This is why I talk about it. I want you to be well-informed. I want you to know the truth. If 
+the truth reduces trust in science, then so be it. I talk about this because we need to fix this 
+problem. I have seen in my own discipline how scientists get stuck on pseudoscientific 
+arguments. And this story isn’t over. It’s still going on. I have good 
+reason to think that the same thing can happen and almost certainly 
+does happen in other disciplines. The only thing that would make me trust 
+scientists more would be if they introduced deliberate measures to prevent sociological 
+and economic pressure from affecting research. Like for example that if a community ends 
+up making wrong predictions for decades, they should see consequences. Don’t 
+you think that this seems reasonable? I think so. Paula Stephan has a 
+list of recommendations in her book. I have a list in my book as 
+well. Lots of people have come up with recommendations for how to fix 
+the problem. But nothing has changed. 
+
+So. These are the different 
+problems. There is outright fraud, on occasion, possibly made worse by 
+systematic pressure on researchers. There are organized scams that are 
+demonstrably getting more widespread. Then there is the generally broken incentive 
+structure that affects pretty much everyone. Finally, a personal comment. I am aware 
+that people attack me for pointing out that scientific research has a big 
+and systematic problem that wastes an enormous amount of money and that slows down 
+progress. These are for the most part, I think, people who mean well. They want to believe that 
+science is doing well. They think they are doing the right thing when they are defending science. 
+Their way to defend science is to deny that a problem exists and, in some cases, to attack 
+the people who draw attention to the problem. They may be well meaning but they are 
+incredibly ill-informed. This is a real problem and denying its existence does not 
+help science. Scientific research is broken. This has been going on for decades 
+and the situation is not improving, it’s getting worse. We need to 
+finally do something about this. That’s it. That’s the video. No really. 

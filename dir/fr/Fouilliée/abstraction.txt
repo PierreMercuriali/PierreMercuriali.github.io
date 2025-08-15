@@ -1,0 +1,32 @@
+ABSTRACTIONS
+
+Qu'est-ce que les mathématiques? Des sciences toutes _formelles_.
+L'arithmétique et l'algèbre sont la rhétorique des nombres. On
+raisonne et on raisonne, on déduit et on déduit, étant donné n'importe
+quoi dans l'abstrait. On applique les principes généraux à des
+problèmes particuliers et la solution de ces problèmes devient un
+petit talent mécanique, comme la syllogistique du moyen âge, ou comme
+la machine à raisonner de Raymond Lulle. La science même du mouvement,
+la reine du siècle, la mécanique, roule encore sur des relations
+formelles dans l'espace et dans le temps, et elle ne cesse pas de
+déduire, de raisonner à perte de vue sur une hypothèse qui est
+l'équivalent scientifique d'une matière de discours latin. Il est vrai
+que, dans un cas, il faut raisonner juste; dans l'autre, ce n'est pas
+nécessaire, et même, quand la cause à soutenir est mauvaise, il est
+bon de déraisonner. Mais le mathématicien ne raisonnera pas mieux
+qu'un autre dans la vie réelle parce qu'il sera habitué à raisonner
+dans l'abstrait, à déduire des conséquences rectilignes d'une
+hypothèse, non à observer et à réunir toutes les données de
+l'expérience, non à induire, à deviner, à apprécier les probabilités.
+L'esprit mathématique, dans la vie privée et dans la vie publique,
+c'est l'art de ne voir qu'un des côtés de la question. Dans les
+sciences mathématiques, nous faisons nous-mêmes nos définitions; dans
+la réalité, c'est l'expérience qui nous les impose et, sans cesse, les
+transforme, les corrige par des déterminations nouvelles. Nous
+trouvons toujours dans les résultats plus que nous n'avions mis dans
+nos définitions et dans nos principes. Nous avions dit: deux et deux
+font quatre, et nous trouvons cinq; nos étroites formules sont
+débordées par la nature et par la vie.
+
+                                               ALFRED FOUILLIÉE.
+
