@@ -17,16 +17,13 @@
       La tokenization est la conversion d'un texte (une grosse unité de langage) 
       en unités plus petites (caractères, mots, etc.) en vue de leur traitement 
       automatique. 
-      Les tokenizers de cette page fonctionnent à partir des règles suivantes : <BR><BR>
+      Les tokenizers de cette page fonctionnent à partir des règles suivantes :
       
       <UL>
         <LI>Séparation par espaces</LI>
         <LI>Séparation par espaces, et par les symboles de ponctuation <CODE>’'.,;?!"()-«»</CODE> </LI>
         <LI>Séparation à l'aide de l'expression régulière ("regex") <CODE> \w+(?:'\w+)?|[^\w\s] </CODE> </LI>
       </UL>
-      
-      
-      <BR><BR>
       
       Le but de cette page est de tester ces différentes règles, 
       de les comparer, de voir où elles fonctionnent, et 
@@ -58,7 +55,7 @@ def tokenize_spaces(input_text):
 
 def tokenize_regex_simple(input_text):
   text   = re.sub("\n", " ", input_text)
-  TOKENS = re.sub(r"([«»'\.,;\?!\"\(\)\-’])", r" \1 ", text)
+  text = re.sub(r"([«»'\.,;\?!\"\(\)\-’])", r" \1 ", text)
   TOKENS = text.split()
   return TOKENS
 

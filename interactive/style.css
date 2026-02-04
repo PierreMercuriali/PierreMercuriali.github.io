@@ -1,0 +1,49 @@
+HTML {
+  display:     block;
+  margin:      auto;
+  font-size:   16px;
+  background:  gainsboro;
+}
+BUTTON, INPUT, SELECT {
+  background: white;
+  color:      black;
+  margin:     auto;
+  font-size:   16px;
+  font-family: "Courier", monospace;
+}
+
+TEXTAREA {
+    width:     99%;
+}
+
+P {
+  line-height: 2;
+}
+
+.token {
+  border: 1px ridge blue;
+  margin: 2px;
+  padding: 2px;
+  background: aliceblue;
+}
+
+.ascii {
+  border:     4px ridge black;
+  width:      50%;
+  text-align: justify;
+  padding:    10px;
+  margin:     auto;
+  background: black;
+  color:      white;
+}
+.terminal {
+  border:     4px ridge black;
+  width:      50%;
+  text-align: justify;
+  padding:    10px;
+  margin:     auto;
+  background: white;
+  color:      black;
+  word-wrap:  break-word;
+}
+
